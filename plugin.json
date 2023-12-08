@@ -1,0 +1,16 @@
+{
+    "id": "sort-column-names",
+    "version": "0.1.0",
+    "meta": {
+        "label": "Sort Column Names",
+        "description": "This plugin contains recipes for sorting column names",
+        "author": "Dataiku (Neba Nfonsang)",
+        "category": "Data Preparation",
+        "icon": " icon-suitcase",
+        "licenseInfo": "Apache Software License",
+        "url": "https://www.dataiku.com/product/plugins/sort-column-names/",
+        "tags": ["data prep"],
+        "supportLevel": "NOT_SUPPORTED"
+    }
+}
+
